@@ -62,7 +62,7 @@ section {
 }
 /* Hero Styles Start */
 .hero {
-    background-image: url("/assets/images/RunBuddyHero-bg.jpg");
+    background-image: url("../images/RunBuddyHero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
